@@ -1,7 +1,7 @@
-Munir Bisteni, Andrew Nithack, Thiago Carvalho Costa, Vitor de Souza Nascimento
-RA's: 23328 - 23305 - 23336 - 23339
+Munir Bisteni, projeto realizado no COTUCA
 
-Rodar o código indicado na linha 9, logo após entrar dentro de cada pasta e executar o arquivo main.py ou main.exe
+Rodar o código indicado na linha 9, logo após entrar dentro de cada pasta e executar o arquivo main.py
+== removido login para upload no github
 
 !!!!! ATENÇÃO -- as partes de "código" referentes a chave primária estão desabilitadas na hora da adição no 
 banco de dados por se tratar de chaves de auto incremento, não foram retiradas para caso o solição da mudança!!!!
